@@ -1,14 +1,14 @@
-# Example projects analyzed on SonarQube.com
+# Example projects analyzed on SonarCloud
 
 ## List of repository
 
 * **Java**
-  * [Java Maven-based project analyzed on SonarQube.com using Travis](https://github.com/SonarSource/sq-com_example_java-maven-travis)
-  * [Java Gradle-based project analyzed on SonarQube.com using Travis](https://github.com/SonarSource/sq-com_example_java-gradle-travis)
+  * [Java Maven-based project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sq-com_example_java-maven-travis)
+  * [Java Gradle-based project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sq-com_example_java-gradle-travis)
 * **C/C++/Objective-C**
-  * [C SQ-Scanner-based project analyzed on SonarQube.com using Travis](https://github.com/SonarSource/sq-com_example_c-sqscanner-travis)
+  * [C SQ-Scanner-based project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sq-com_example_c-sqscanner-travis)
 * **Other languages**
-  * [Standard SQ-Scanner-based project analyzed on SonarQube.com using Travis](https://github.com/SonarSource/sq-com_example_standard-sqscanner-travis)
+  * [Standard SQ-Scanner-based project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sq-com_example_standard-sqscanner-travis)
 
 ## Configuration
 
