@@ -18,4 +18,4 @@
 
 Every repository is configured to:
 * be analyzed once a week on Travis CI
-* make sure the PM teams gets notified (through the PM wallboard) if there's a failure
+* make sure the SonarCloud team gets notified (through the "SonarCloud" Hipchat room) if there's a failure
