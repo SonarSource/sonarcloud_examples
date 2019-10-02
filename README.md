@@ -1,6 +1,6 @@
 # Example projects analyzed on SonarCloud
 
-## List of repository
+## List of repositories
 
 * **Java**
   * [Java Maven-based project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sq-com_example_java-maven-travis)
