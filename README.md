@@ -10,6 +10,8 @@
 * **Go**
   * [Go project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sonarcloud_example_go-sqscanner-travis)
 * **C/C++/Objective-C**
+  * [C++ GNU Autotools-based project analyzed on SonarCloud using Travis](https://github.com/sonarsource-cfamily-examples/linux-autotools-travis-sc)
+  * [C++ CMake-based project analyzed on SonarCloud using Travis](https://github.com/sonarsource-cfamily-examples/linux-cmake-travis-sc)
   * [C SQ-Scanner-based project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sq-com_example_c-sqscanner-travis)
 * **Other languages**
   * [Standard SQ-Scanner-based project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sq-com_example_standard-sqscanner-travis)
