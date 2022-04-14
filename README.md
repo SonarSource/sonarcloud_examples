@@ -11,6 +11,7 @@
   * [Go project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sonarcloud_example_go-sqscanner-travis)
 * **C/C++/Objective-C**
   * [C++ GNU Autotools-based project analyzed on SonarCloud using Travis](https://github.com/sonarsource-cfamily-examples/linux-autotools-travis-sc)
+  * [C++ GNU Autotools-based project analyzed on SonarCloud with test coverage using Travis](https://github.com/sonarsource-cfamily-examples/linux-autotools-gcov-travis-sc)
   * [C++ CMake-based project analyzed on SonarCloud using Travis](https://github.com/sonarsource-cfamily-examples/linux-cmake-travis-sc)
   * [C SQ-Scanner-based project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sq-com_example_c-sqscanner-travis)
 * **Other languages**
