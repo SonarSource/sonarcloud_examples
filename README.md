@@ -11,7 +11,7 @@
   * [Go project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sonarcloud_example_go-sqscanner-travis)
 * **C/C++/Objective-C**
 
-  All SonarCloud Scanner examples for C, C++ and Objective-C can be found [here](https://github.com/sonarsource-cfamily-examples?q=-sc).
+  All SonarCloud Scanner examples for C, C++ and Objective-C can be found [here](https://github.com/orgs/sonarsource-cfamily-examples/repositories?q=-sc&type=all).
 * **Other languages**
   * [Standard SQ-Scanner-based project analyzed on SonarCloud using Travis](https://github.com/SonarSource/sq-com_example_standard-sqscanner-travis)
 
